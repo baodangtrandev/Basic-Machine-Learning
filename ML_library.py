@@ -143,6 +143,16 @@ class BasicKmeanCluster:
         plt.plot()
         plt.show()
 
+class BasicKNN(BasicML):
+    def __init__(self):
+        super().__init__()
+        
+
+class BasicGradientDesent(BasicML):
+    def __init__(self):
+        super().__init__()
+    
+
         
         
         
